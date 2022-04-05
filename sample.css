@@ -67,6 +67,5 @@
   
   .on::after {
     transform: translateX(100px);
-
     opacity: 1;
   }
